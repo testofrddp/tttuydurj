@@ -1,0 +1,9 @@
+{
+  "provider": "ngrok",
+  "establishedAt": 1758374201,
+  "username": "runneradmin",
+  "password": "P@ssw0rd!",
+  "connectionString": "mstsc /v:8.tcp.us-cal-1.ngrok.io:14869 /u:runneradmin",
+  "status": "ready",
+  "host": "tcp://8.tcp.us-cal-1.ngrok.io:14869"
+}
